@@ -2,12 +2,12 @@
 
 ### Um estudante de Ciência da Computação apaixonado por tecnologia, jogos indie e R&B.
 
-<hr>
+<img width="100%" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 4' preserveAspectRatio='none'><rect width='100%' height='100%' fill='%2330363d'/></svg>">
 
 ### Conecte-se comigo:
 <a href="https://www.linkedin.com/in/jonas-tavares-984315160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://www.instagram.com/SEU_USUARIO_AQUI/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="mailto:jonastavares98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<hr>
+<img width="100%" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 4' preserveAspectRatio='none'><rect width='100%' height='100%' fill='%2330363d'/></svg>">
 
 ### Tecnologias que estou aprendendo:
 <p align="left">
