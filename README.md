@@ -6,11 +6,13 @@
 
 ### Conecte-se comigo:
 <a href="https://www.linkedin.com/in/jonas-tavares-984315160/" target="_blank">
+  <p align="left">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+    </p>
 <a href="jonastavares98@gmail.com">
+  <p align="left">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+  </p>
 
 ---
 
