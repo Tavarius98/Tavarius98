@@ -1,5 +1,4 @@
-# 💫 About Me:
-## Olá, eu sou o Jonas! 👋 
+# 💫 About Me: 
 ## Um estudante de Ciência da Computação apaixonado por tecnologia, jogos indie e R&B.
 
 
