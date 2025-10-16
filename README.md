@@ -1,6 +1,6 @@
 # Olá, eu sou o Jonas! 👋
 
-### Um estudante de Ciência da Computação apaixonado por criar soluções com tecnologia.
+### Um estudante de Ciência da Computação apaixonado por tecnologia, jogos indie e R&B.
 
 ---
 
