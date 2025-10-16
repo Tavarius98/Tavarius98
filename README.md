@@ -15,3 +15,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
+
+![Metrics](https://metrics.lecoq.io/Tavarius98?template=classic&base.header=true&base.activity=true&base.community=true&base.repositories=true&base.metadata=true&lines=true&languages=true&people=true&isocalendar=true)
